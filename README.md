@@ -16,4 +16,4 @@ Student number: 1399853
 
 - Reflection.ipynb contains the **reflection** on the learning process
 
-Thank you for taking the time to review and provide feedback on my code！
+Thank you for taking the time to review and provide feedback on my portfolio！
