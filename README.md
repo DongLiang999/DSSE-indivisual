@@ -1,6 +1,7 @@
 # Data Science for Smart Environments - Individual Portfolio
 
 Name: Dong Liang
+
 Student number: 1399853
 
 My portfolio is in the github project. 
