@@ -4,9 +4,6 @@ Name: Dong Liang
 
 Student number: 1399853
 
-My portfolio is in the github project. 
-https://github.com/DongLiang999/DSSE-indivisual
-
 - Introduction.docx contains the **introduction**(original personal learning plan).
 
 - README.md contains the index to each part.
